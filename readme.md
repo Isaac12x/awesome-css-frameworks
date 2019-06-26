@@ -4,8 +4,7 @@
 If you want to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md) please submit a PR and will review the added links to maintain a high quality of curated frameworks, design systems and others.
 
 #### Contents
-- []
-- [Base / Reset / Normalize](#base--reset--normalize)
+- [Design Frameworks](#list-of-design-systems)
 - [Very Lightweight](#very-lightweight)
 - [General Purpose](#general-purpose)
 - [Material Design](#material-design)
@@ -14,9 +13,9 @@ If you want to [contribute](https://github.com/troxler/awesome-css-frameworks/bl
 - [Stalled Development](#stalled-development)
 
 
-## We start with design systems obviously.
+We start with design systems obviously.
 
-🔱 List of design systems
+## 🔱 List of design systems
 
 - [**Artsy**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
