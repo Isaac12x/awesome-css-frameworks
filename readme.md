@@ -1,7 +1,7 @@
-# Awesome Desing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Design [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
+If you want to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md) please submit a PR and will review the added links to maintain a high quality of curated frameworks, design systems and others.
 
 ## Contents
 - [Base / Reset / Normalize](#base--reset--normalize)
