@@ -3,7 +3,8 @@
 
 If you want to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md) please submit a PR and will review the added links to maintain a high quality of curated frameworks, design systems and others.
 
-## Contents
+#### Contents
+- []
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Very Lightweight](#very-lightweight)
 - [General Purpose](#general-purpose)
@@ -13,34 +14,43 @@ If you want to [contribute](https://github.com/troxler/awesome-css-frameworks/bl
 - [Stalled Development](#stalled-development)
 
 
-List of CSS frameworks. [Updated regularly 🔜 🕐]
+## We start with design systems obviously.
 
-## Base / Reset / Normalize
+🔱 List of design systems
 
-- [**normalize.css**](http://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
-  ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
-  [Repo](https://github.com/necolas/normalize.css/)
-  | #CSS
+- [**Artsy**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
+  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
+  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+  [Repo](https://github.com/justinhough/Centurion)
 
-- [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
-  ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
-  [Repo](https://github.com/csstools/sanitize.css)
-  | #CSS
+- [**Uber Design System**](https://www.uber.design/) - Uber design system.
+  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
+  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+  [Repo](https://github.com/justinhough/Centurion)
+  
+- [**US Government design system **](https://designsystem.digital.gov/) - US Gov design system.
+  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
+  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+  [Repo](https://github.com/justinhough/Centurion)
 
+- [**UK Gov design system **](https://design-system.service.gov.uk/) - UK gov design system.
+  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
+  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+  [Repo](https://github.com/justinhough/Centurion)
+  
+- [**Salesforce**](https://lightningdesignsystem.com/) - Salesforce design system.
+  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
+  [Repo](https://github.com/inuitcss/inuitcss)
+  | #SCSS
+
+  
 - [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
 
-- [**minireset.css**](http://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
-  ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
-  [Repo](https://github.com/jgthms/minireset.css)
-  | #Sass
-  
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
-  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
-  [Repo](https://github.com/sindresorhus/modern-normalize)
-  | #CSS
+
+List of CSS frameworks. [Updated regularly 🔜 🕐]
 
 
 ## Very Lightweight
@@ -431,30 +441,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
 </details>
 
 ---
-
-## Design Systems
-
-🔱 List of design systems
-
-- [**Artsy**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
-  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
-  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-  [Repo](https://github.com/justinhough/Centurion)
-
-- [**Uber Design System**](https://www.uber.design/) - Uber design system.
-  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
-  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-  [Repo](https://github.com/justinhough/Centurion)
-  
-- [**US Government design system **](https://designsystem.digital.gov/) - US Gov design system.
-  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
-  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-  [Repo](https://github.com/justinhough/Centurion)
-
-- [**UK Gov design system **](https://design-system.service.gov.uk/) - UK gov design system.
-  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
-  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-  [Repo](https://github.com/justinhough/Centurion)
 
 
 
