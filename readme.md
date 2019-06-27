@@ -49,10 +49,12 @@ We start with design systems obviously.
   | #SCSS
 
 
-List of CSS frameworks. [Updated regularly 🔜 🕐]
 
 
-## Very Lightweight
+## List of CSS frameworks. [Updated regularly 🔜 🕐]
+
+
+#### Very Lightweight
 
 Frameworks that are smaller than ~5KB.
 
@@ -122,7 +124,7 @@ Frameworks that are smaller than ~5KB.
   | #CSS
 
 
-## General Purpose
+#### General Purpose
 
 - [**Bootstrap**](http://getbootstrap.com) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
   ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social&label=Star)
@@ -237,7 +239,7 @@ Frameworks that are smaller than ~5KB.
   | #CSS
   
 
-## Material Design
+#### Material Design
 
 - [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
   ![](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=social&label=Star)
@@ -266,7 +268,7 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
  
 
-## Specialized
+#### Specialized
 
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
@@ -298,7 +300,7 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 
-## Vintage & Retro
+#### Vintage & Retro
 
 - [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.  
   ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social&label=Star)
@@ -337,7 +339,7 @@ Frameworks that are smaller than ~5KB.
   | #CSS
  
 
-## Toolkits
+#### Toolkits
 
 Toolkits are closer to a library than to a framework.
 They do not provide actual styling but utilities (e.g. mixins) that you can use in your CSS preprocessor.
@@ -357,7 +359,7 @@ They do not provide actual styling but utilities (e.g. mixins) that you can use 
   | #SCSS
 
 
-## Stalled Development
+#### Stalled Development
 
 Frameworks that have not seen any real development for more than about one year or officially have been deprecated.
 We are keeping them here for reference/inspiration and hope for a revival.
